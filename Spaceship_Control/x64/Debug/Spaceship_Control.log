@@ -1,0 +1,16 @@
+﻿  winmain.cpp
+c:\users\jdtho\documents\visual studio 2015\projects\spaceship_control\spaceship_control\graphics.h(14): fatal error C1083: Cannot open include file: 'd3dx9.h': No such file or directory
+  textureManager.cpp
+c:\users\jdtho\documents\visual studio 2015\projects\spaceship_control\spaceship_control\graphics.h(14): fatal error C1083: Cannot open include file: 'd3dx9.h': No such file or directory
+  spacewar.cpp
+c:\users\jdtho\documents\visual studio 2015\projects\spaceship_control\spaceship_control\graphics.h(14): fatal error C1083: Cannot open include file: 'd3dx9.h': No such file or directory
+  input.cpp
+c:\users\jdtho\documents\visual studio 2015\projects\spaceship_control\spaceship_control\input.cpp(127): warning C4244: 'argument': conversion from 'WPARAM' to 'char', possible loss of data
+c:\users\jdtho\documents\visual studio 2015\projects\spaceship_control\spaceship_control\input.cpp(128): warning C4244: '=': conversion from 'WPARAM' to 'char', possible loss of data
+  image.cpp
+c:\users\jdtho\documents\visual studio 2015\projects\spaceship_control\spaceship_control\graphics.h(14): fatal error C1083: Cannot open include file: 'd3dx9.h': No such file or directory
+  graphics.cpp
+c:\users\jdtho\documents\visual studio 2015\projects\spaceship_control\spaceship_control\graphics.h(14): fatal error C1083: Cannot open include file: 'd3dx9.h': No such file or directory
+  game.cpp
+c:\users\jdtho\documents\visual studio 2015\projects\spaceship_control\spaceship_control\graphics.h(14): fatal error C1083: Cannot open include file: 'd3dx9.h': No such file or directory
+  Generating Code...
